@@ -30,7 +30,7 @@ img{
     margin: 20px;
 }
 
-@media screen and (max-width:430px) {
+@media screen and (max-width:230px) {
     #show{
         grid-template-columns:auto auto;
     }
