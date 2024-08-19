@@ -30,9 +30,9 @@ img{
     margin: 20px;
 }
 
-@media screen and (max-width:230px) {
+@media screen and (max-width:430px) {
     #show{
-        grid-template-columns:auto auto;
+        grid-template-columns:auto;
     }
     img{
         width: 150px;
